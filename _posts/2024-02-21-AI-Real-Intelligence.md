@@ -1,7 +1,7 @@
 ---
 title: "Is AI Real Intelligence?"
 date: 2024-02-21 12:00:00 +0800
-categories: [Artificial Intelligence]
+categories: [Artificial Intelligence, Essay]
 tags: [Artificial Intelligence, Essay, Critical Thinking]
 ---
 
